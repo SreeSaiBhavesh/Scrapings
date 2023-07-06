@@ -1,4 +1,4 @@
-# Scraping
+# Scrapings
 
 <h2>API Scraping</h2>
 <b>Tasks Performed</b>
